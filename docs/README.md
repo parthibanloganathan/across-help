@@ -1,37 +1,36 @@
 # Getting started
 
-Across turns Slack into a powerful customer support system that scales with your company. With Across, you can create and manage tickets in Slack and easily message customers across channels.
+Across turns Slack into a powerful customer support tool that scales with your company. With Across, you can create and manage tickets in Slack and easily message customers across channels.
 
 If you have any questions, please send us a text at (510)-756-2522 or email us at support@acrossapp.com. You can also schedule time with us [here](https://meetings.hubspot.com/kunal14/across).
 
 ## Initial Setup
 
-**Across takes less than 5 minutes to set up.**
+**Across takes less than 5 minutes to set up**
 
 **Connecting Across to Slack**
-1. Log in to [Across](https://acrossapp.com/login) and follow the instructions below. 
+1. Log in to [Across](https://acrossapp.com/login)
 2. Click "Integrations" in the left navigation bar
 3. Click "Connect to Slack"
 4. Across will request permission to be added to your Slack workspace. Click "Allow"
-5. Across is not added to your Slack workspace. In any channel where you want to use across, simply invite the Across app to the channel
+5. In any channel where you want to use across, simply invite the Across app to the channel
 
 **Inviting team members to Across**
- 1. Click on the "Team" tab
- 2. Invite your team members to Across by clicking the "Add teammate" button
+ 1. Click on the "Team" tab in Across
+ 2. Invite your team members by clicking the "Add teammate" button
 
 **Renaming your Across workspace**
-1. Click on the "Team" tab
-2. Rename your workspace and upload your company logo
+1. Click on the "Team" tab in Across
+2. Rename your workspace and upload your company logo. By default, we pull this information from your Slack
 
 
 ## Creating and Managing Tickets
 
 **Creating tickets**
-1. To create a ticket directly from Slack, click the "More actions" button on the right side of any message. The ticket will be associated with the user who entered the message.
+1. To create a ticket directly from Slack, hover over a message and click the "More actions" button on the right side. The ticket will be associated with the user who posted the message
 2. In the menu, click "Create ticket"
-3. Fill in the ticket details, including the ticket title, description, assigned support rep, priority, and due date
-4. Click "Create"
-5. You will now be able to see the ticket in your dashboard at acrossapp.com
+3. Fill in the ticket details and click "Create"
+4. You will now be able to see the ticket in your dashboard at acrossapp.com
 
 **Associating tickets with multiple customers**
 A ticket can be associated with multiple customers. To add additional customers, select a ticket in your dashboard at acrossapp.com and add additional customers to the "Reported by" field.
