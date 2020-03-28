@@ -39,6 +39,7 @@ If you have any questions, please send us a text at (510)-756-2522 or email us a
  4. You can now reply and receive messages from any thread associated with the task, directly from the Across task
 
 **Associating tasks with multiple customers**
+
 A task can be associated with multiple customers. To add additional customers, select a ticket in your dashboard at acrossapp.com and add additional customers to the "Reported by" field.
 
 Every customer listed in the "Reported by" field will be notified in Slack and through email when the ticket is resolved.
