@@ -68,13 +68,14 @@ Across can currently be integrated with Zendesk, Help Scout, Trello and Jira. Ac
 4. Tasks created in Across will now sync with the integrated ticketing system. The ticket will contain a link back to the Across task.
 
 **Integrating Across with Trello**
-5. Navigate to the "Integrations" tab in your dashboard at acrossapp.com
-6. Click "Connect to Trello"
-7. Across will request permission to connect with Trello. Click "Allow"
-8. Click "Configure"
-9. Select the Trello board you would like to connect Across to
-10. Select the list you want a card to be added to for every new task in Across
-11. Select the list where you want the associated task to be marked as resolved when the card is moved to the list. Affected customers will automatically be notified when the card is moved to this list and the task is resolved 
+
+1. Navigate to the "Integrations" tab in your dashboard at acrossapp.com
+2. Click "Connect to Trello"
+3. Across will request permission to connect with Trello. Click "Allow"
+4. Click "Configure"
+5. Select the Trello board you would like to connect Across to
+6. Select the list you want a card to be added to for every new task in Across
+7. Select the list where you want the associated task to be marked as resolved when the card is moved to the list. Affected customers will automatically be notified when the card is moved to this list and the task is resolved 
 
 
 ## Additional help
