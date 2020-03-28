@@ -80,4 +80,4 @@ Across can currently be integrated with Zendesk, Help Scout, Trello and Jira. Ac
 
 ## Additional help
 
-You can also send us a text at (510)-756-2522, email us at support@founderphone.com, or schedule time with us [here](https://meetings.hubspot.com/kunal14/founderphone).
+You can also send us a text at (510)-756-2522, email us at support@acrossapp.com, or schedule time with us [here](https://meetings.hubspot.com/kunal14/across).
