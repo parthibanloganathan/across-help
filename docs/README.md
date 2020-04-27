@@ -45,6 +45,8 @@ There are three ways to create tasks in Across
  2. Use the slash command `/Across` in any channel tracked by Across
  3. Mark the message that you want to turn into a ticket with the 🎫 emoji
 
+When you create tasks, they go to a central channel #across_tasks. You can edit/resolve/respond to them from there with your team. You can also filter through tasks in the Home tab - just click the tasks button.
+
 **Associating multiple Slack threads with the same task**
  1. Hover over a message and click the “More actions” button on the right side
  2. Click "Add to existing task"
@@ -92,6 +94,10 @@ Across can also send ticket details via our custom API.
 6. Select the list you want a card to be added to for every new task in Across
 7. Select the list where you want the associated task to be marked as resolved when the card is moved to the list. Affected customers will automatically be notified when the card is moved to this list and the task is resolved 
 
+## Viewing metrics and analytics in Across
+
+1. Navigate to the "Customers" tab in your dashboard at acrossapp.com
+2. This tab contains analytics such as average response time and most active customer across all of your customer channels
 
 ## Additional help
 
