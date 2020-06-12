@@ -52,7 +52,6 @@ When you create tasks, they go to a central channel #across_tasks. You can edit/
  2. Click "Add to existing task"
  3. Select the task you want the message to be associated to
  4. You can now reply and receive messages from any thread associated with the task, directly from the Across task
- 5. You can also 
 
 **Associating tasks with multiple customers**
 
@@ -64,7 +63,7 @@ Every customer listed in the "Reported by" field will be notified in Slack and t
 1. To resolve or complete a task, navigate to your customer inbox in Slack, or to the "Tasks" tab at acrossapp.com
 2. Filter for "In Progress" tasks 
 3. In Slack, click "Resolve" next to the task you want to resolve, or at acrossapp.com, click the "Resolve" button in the lower right corner of the task
-5. Every customer listed in the "Reported by" field will be notified in Slack and through email when the task is resolved.
+4. Every customer listed in the "Reported by" field will be notified in Slack and through email when the task is resolved.
 
 ## Communicating with customers directly from a task
 
